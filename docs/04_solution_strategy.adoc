@@ -1,0 +1,34 @@
+***
+== Solution Strategy
+
+
+=== Backend
+
+.Solid-file-client:
+We will use this library to interchange information from POD and github. It works with json archives.
+
+.Inrupt-javascript-libraries:
+The libraries for the usage of the PODs, it is the union between the solid code and the POD storage.
+.Solid:
+It will be the core of the backend, everything will be managed using the SOLID principles.
+
+=== Frontend
+.React-bootstrap:
+We will use this technology to make the designs, the UI.
+
+.GoogleMapsAPI:
+This API will simplify a lot the location and ubication requirements of the project.
+
+=== Developer Tools
+.Github managers:
+To simplify the usage of the github platform and avoid possible problems. Some people of the team use the native solution from github, github desktop, and some others use GitKraken, a third-party alternative
+
+.VSCode: 
+To develop the code.
+
+.Docker app
+The docker app configures the system to work with the docker environment.
+
+***
+
+
